@@ -1,8 +1,8 @@
-# AskOmics website
+# AskOmics website for you
 
 [![Build Status](https://travis-ci.org/askomics/website.svg?branch=master)](https://travis-ci.org/askomics/website)
 
-AskOmics website, build with [Nikola](https://getnikola.com/)
+AskOmics website it is, build with [Nikola](https://getnikola.com/)
 
 
 ## Installation
